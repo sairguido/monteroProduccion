@@ -1,0 +1,95 @@
+C:\xampp\htdocs\monteroProduccion\monteroProduccion\bin\Debug\monteroProduccion.exe.config
+C:\xampp\htdocs\monteroProduccion\monteroProduccion\bin\Debug\monteroProduccion.exe
+C:\xampp\htdocs\monteroProduccion\monteroProduccion\bin\Debug\monteroProduccion.pdb
+C:\xampp\htdocs\monteroProduccion\monteroProduccion\obj\Debug\monteroProduccion.csprojAssemblyReference.cache
+C:\xampp\htdocs\monteroProduccion\monteroProduccion\obj\Debug\monteroProduccion.FormMenu.resources
+C:\xampp\htdocs\monteroProduccion\monteroProduccion\obj\Debug\monteroProduccion.Properties.Resources.resources
+C:\xampp\htdocs\monteroProduccion\monteroProduccion\obj\Debug\monteroProduccion.csproj.GenerateResource.cache
+C:\xampp\htdocs\monteroProduccion\monteroProduccion\obj\Debug\monteroProduccion.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\monteroProduccion\monteroProduccion\obj\Debug\monteroProduccion.exe
+C:\xampp\htdocs\monteroProduccion\monteroProduccion\obj\Debug\monteroProduccion.pdb
+C:\xampp\htdocs\monteroProduccion\monteroProduccion\obj\Debug\monteroProduccion.logo.resources
+C:\xampp\htdocs\monteroProduccion\monteroProduccion\obj\Debug\monteroProduccion.catalogo.resources
+C:\Users\SISTEMAS\Desktop\monteroProduccion\monteroProduccion\bin\Debug\monteroProduccion.exe.config
+C:\Users\SISTEMAS\Desktop\monteroProduccion\monteroProduccion\obj\Debug\monteroProduccion.csprojResolveAssemblyReference.cache
+C:\Users\SISTEMAS\Desktop\monteroProduccion\monteroProduccion\obj\Debug\monteroProduccion.catalogo.resources
+C:\Users\SISTEMAS\Desktop\monteroProduccion\monteroProduccion\obj\Debug\monteroProduccion.FormMenu.resources
+C:\Users\SISTEMAS\Desktop\monteroProduccion\monteroProduccion\obj\Debug\monteroProduccion.logo.resources
+C:\Users\SISTEMAS\Desktop\monteroProduccion\monteroProduccion\obj\Debug\monteroProduccion.Properties.Resources.resources
+C:\Users\SISTEMAS\Desktop\monteroProduccion\monteroProduccion\obj\Debug\monteroProduccion.csproj.GenerateResource.Cache
+C:\Users\SISTEMAS\Desktop\monteroProduccion\monteroProduccion\bin\Debug\monteroProduccion.exe
+C:\Users\SISTEMAS\Desktop\monteroProduccion\monteroProduccion\bin\Debug\monteroProduccion.pdb
+C:\Users\SISTEMAS\Desktop\monteroProduccion\monteroProduccion\bin\Debug\MySql.Data.dll
+C:\Users\SISTEMAS\Desktop\monteroProduccion\monteroProduccion\bin\Debug\MySql.Data.xml
+C:\Users\SISTEMAS\Desktop\monteroProduccion\monteroProduccion\obj\Debug\monteroProduccion.exe
+C:\Users\SISTEMAS\Desktop\monteroProduccion\monteroProduccion\obj\Debug\monteroProduccion.pdb
+C:\xampp\htdocs\monteroProduccion\monteroProduccion\bin\Debug\MySql.Data.xml
+C:\xampp\htdocs\monteroProduccion\monteroProduccion\obj\Debug\monteroProduccion.csproj.CopyComplete
+C:\xampp\htdocs\monteroProduccion\monteroProduccion\obj\Debug\monteroProduccion.NuevoRegistroCatalogo.resources
+C:\xampp\htdocs\monteroProduccion\monteroProduccion\obj\Debug\monteroProduccion.EditarRegistroCatalogo.resources
+C:\xampp\htdocs\monteroProduccion\monteroProduccion\obj\Debug\monteroProduccion.ListarProduccion.resources
+C:\xampp\htdocs\monteroProduccion\monteroProduccion\obj\Debug\monteroProduccion.Nprod.resources
+C:\xampp\htdocs\monteroProduccion\monteroProduccion\obj\Debug\monteroProduccion.FormBuscar.resources
+C:\xampp\htdocs\monteroProduccion\monteroProduccion\obj\Debug\monteroProduccion.NprodEdit.resources
+C:\xampp\htdocs\monteroProduccion\monteroProduccion\obj\Debug\monteroProduccion.grafico.resources
+C:\xampp\htdocs\monteroProduccion\monteroProduccion\obj\Debug\monteroProduccion.cargando.resources
+C:\xampp\htdocs\monteroProduccion\monteroProduccion\obj\Debug\monteroProduccion.verImagen.resources
+C:\xampp\htdocs\monteroProduccion\monteroProduccion\obj\Debug\monteroProduccion.TipoProd.resources
+C:\xampp\htdocs\monteroProduccion\monteroProduccion\bin\Debug\monteroProduccion.exe.manifest
+C:\xampp\htdocs\monteroProduccion\monteroProduccion\bin\Debug\monteroProduccion.application
+C:\xampp\htdocs\monteroProduccion\monteroProduccion\obj\Debug\monteroProduccion.exe.manifest
+C:\xampp\htdocs\monteroProduccion\monteroProduccion\obj\Debug\monteroProduccion.application
+C:\xampp\htdocs\monteroProduccion\monteroProduccion\obj\Debug\monteroProduccion.MasInfo.resources
+C:\xampp\htdocs\monteroProduccion\monteroProduccion\obj\Debug\monteroProduccion.splash.resources
+C:\xampp\htdocs\monteroProduccion\monteroProduccion\obj\Debug\monteroProduccion.loginFomr.resources
+C:\xampp\htdocs\monteroProduccion\monteroProduccion\obj\Debug\monteroProduccion.AdminCotizacion.resources
+C:\Users\ASUS PRIME\Desktop\monteroProduccion\monteroProduccion\obj\Debug\monteroProduccion.csproj.AssemblyReference.cache
+C:\Users\ASUS PRIME\Desktop\monteroProduccion\monteroProduccion\obj\Debug\monteroProduccion.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS PRIME\Desktop\monteroProduccion\monteroProduccion\obj\Debug\monteroProduccion.AdminCotizacion.resources
+C:\Users\ASUS PRIME\Desktop\monteroProduccion\monteroProduccion\obj\Debug\monteroProduccion.cargando.resources
+C:\Users\ASUS PRIME\Desktop\monteroProduccion\monteroProduccion\obj\Debug\monteroProduccion.catalogo.resources
+C:\Users\ASUS PRIME\Desktop\monteroProduccion\monteroProduccion\obj\Debug\monteroProduccion.EditarRegistroCatalogo.resources
+C:\Users\ASUS PRIME\Desktop\monteroProduccion\monteroProduccion\obj\Debug\monteroProduccion.FormMenu.resources
+C:\Users\ASUS PRIME\Desktop\monteroProduccion\monteroProduccion\obj\Debug\monteroProduccion.FormBuscar.resources
+C:\Users\ASUS PRIME\Desktop\monteroProduccion\monteroProduccion\obj\Debug\monteroProduccion.grafico.resources
+C:\Users\ASUS PRIME\Desktop\monteroProduccion\monteroProduccion\obj\Debug\monteroProduccion.ListarProduccion.resources
+C:\Users\ASUS PRIME\Desktop\monteroProduccion\monteroProduccion\obj\Debug\monteroProduccion.loginFomr.resources
+C:\Users\ASUS PRIME\Desktop\monteroProduccion\monteroProduccion\obj\Debug\monteroProduccion.logo.resources
+C:\Users\ASUS PRIME\Desktop\monteroProduccion\monteroProduccion\obj\Debug\monteroProduccion.MasInfo.resources
+C:\Users\ASUS PRIME\Desktop\monteroProduccion\monteroProduccion\obj\Debug\monteroProduccion.Nprod.resources
+C:\Users\ASUS PRIME\Desktop\monteroProduccion\monteroProduccion\obj\Debug\monteroProduccion.NprodEdit.resources
+C:\Users\ASUS PRIME\Desktop\monteroProduccion\monteroProduccion\obj\Debug\monteroProduccion.NuevoRegistroCatalogo.resources
+C:\Users\ASUS PRIME\Desktop\monteroProduccion\monteroProduccion\obj\Debug\monteroProduccion.Properties.Resources.resources
+C:\Users\ASUS PRIME\Desktop\monteroProduccion\monteroProduccion\obj\Debug\monteroProduccion.splash.resources
+C:\Users\ASUS PRIME\Desktop\monteroProduccion\monteroProduccion\obj\Debug\monteroProduccion.TipoProd.resources
+C:\Users\ASUS PRIME\Desktop\monteroProduccion\monteroProduccion\obj\Debug\monteroProduccion.verImagen.resources
+C:\Users\ASUS PRIME\Desktop\monteroProduccion\monteroProduccion\obj\Debug\monteroProduccion.csproj.GenerateResource.cache
+C:\Users\ASUS PRIME\Desktop\monteroProduccion\monteroProduccion\obj\Debug\monteroProduccion.csproj.CoreCompileInputs.cache
+C:\Users\ASUS PRIME\Desktop\monteroProduccion\monteroProduccion\obj\Debug\monteroProduccion.exe
+C:\Users\ASUS PRIME\Desktop\monteroProduccion\monteroProduccion\obj\Debug\monteroProduccion.pdb
+C:\Users\ASUS PRIME\Desktop\monteroProduccion\monteroProduccion\obj\Debug\monteroProduccion.exe.config
+C:\Users\ASUS PRIME\Desktop\Nueva carpeta\monteroProduccion\monteroProduccion\obj\Debug\monteroProduccion.csproj.AssemblyReference.cache
+C:\Users\ASUS PRIME\Desktop\Nueva carpeta\monteroProduccion\monteroProduccion\obj\Debug\monteroProduccion.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS PRIME\Desktop\Nueva carpeta\monteroProduccion\monteroProduccion\obj\Debug\monteroProduccion.exe.config
+C:\Users\ASUS PRIME\Desktop\Nueva carpeta\monteroProduccion\monteroProduccion\obj\Debug\monteroProduccion.AdminCotizacion.resources
+C:\Users\ASUS PRIME\Desktop\Nueva carpeta\monteroProduccion\monteroProduccion\obj\Debug\monteroProduccion.cargando.resources
+C:\Users\ASUS PRIME\Desktop\Nueva carpeta\monteroProduccion\monteroProduccion\obj\Debug\monteroProduccion.catalogo.resources
+C:\Users\ASUS PRIME\Desktop\Nueva carpeta\monteroProduccion\monteroProduccion\obj\Debug\monteroProduccion.EditarRegistroCatalogo.resources
+C:\Users\ASUS PRIME\Desktop\Nueva carpeta\monteroProduccion\monteroProduccion\obj\Debug\monteroProduccion.FormMenu.resources
+C:\Users\ASUS PRIME\Desktop\Nueva carpeta\monteroProduccion\monteroProduccion\obj\Debug\monteroProduccion.FormBuscar.resources
+C:\Users\ASUS PRIME\Desktop\Nueva carpeta\monteroProduccion\monteroProduccion\obj\Debug\monteroProduccion.grafico.resources
+C:\Users\ASUS PRIME\Desktop\Nueva carpeta\monteroProduccion\monteroProduccion\obj\Debug\monteroProduccion.ListarProduccion.resources
+C:\Users\ASUS PRIME\Desktop\Nueva carpeta\monteroProduccion\monteroProduccion\obj\Debug\monteroProduccion.loginFomr.resources
+C:\Users\ASUS PRIME\Desktop\Nueva carpeta\monteroProduccion\monteroProduccion\obj\Debug\monteroProduccion.logo.resources
+C:\Users\ASUS PRIME\Desktop\Nueva carpeta\monteroProduccion\monteroProduccion\obj\Debug\monteroProduccion.MasInfo.resources
+C:\Users\ASUS PRIME\Desktop\Nueva carpeta\monteroProduccion\monteroProduccion\obj\Debug\monteroProduccion.Nprod.resources
+C:\Users\ASUS PRIME\Desktop\Nueva carpeta\monteroProduccion\monteroProduccion\obj\Debug\monteroProduccion.NprodEdit.resources
+C:\Users\ASUS PRIME\Desktop\Nueva carpeta\monteroProduccion\monteroProduccion\obj\Debug\monteroProduccion.NuevoRegistroCatalogo.resources
+C:\Users\ASUS PRIME\Desktop\Nueva carpeta\monteroProduccion\monteroProduccion\obj\Debug\monteroProduccion.Properties.Resources.resources
+C:\Users\ASUS PRIME\Desktop\Nueva carpeta\monteroProduccion\monteroProduccion\obj\Debug\monteroProduccion.splash.resources
+C:\Users\ASUS PRIME\Desktop\Nueva carpeta\monteroProduccion\monteroProduccion\obj\Debug\monteroProduccion.TipoProd.resources
+C:\Users\ASUS PRIME\Desktop\Nueva carpeta\monteroProduccion\monteroProduccion\obj\Debug\monteroProduccion.verImagen.resources
+C:\Users\ASUS PRIME\Desktop\Nueva carpeta\monteroProduccion\monteroProduccion\obj\Debug\monteroProduccion.csproj.GenerateResource.cache
+C:\Users\ASUS PRIME\Desktop\Nueva carpeta\monteroProduccion\monteroProduccion\obj\Debug\monteroProduccion.csproj.CoreCompileInputs.cache
+C:\Users\ASUS PRIME\Desktop\Nueva carpeta\monteroProduccion\monteroProduccion\obj\Debug\monteroProduccion.exe
+C:\Users\ASUS PRIME\Desktop\Nueva carpeta\monteroProduccion\monteroProduccion\obj\Debug\monteroProduccion.pdb
